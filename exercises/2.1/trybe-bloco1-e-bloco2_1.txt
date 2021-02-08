@@ -1,4 +1,0 @@
-O que eu vou aprender na Trybe nos Blocos 1 e 2.1:
-- Unix
-- Bash
-- Git & GitHub
